@@ -1,7 +1,7 @@
 Implicit Sentiment Lexicon
 ==========================
 
-A prediction system that can automatically guess the star ratings trained from 100,000 reviews on Amazon.com.
+Analyzed implicit sentiment expressions in text based on context co-occurrence to improve opinion mining performance. Python.
 
 ## _About_
     
